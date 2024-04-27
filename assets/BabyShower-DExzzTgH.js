@@ -1,1 +1,0 @@
-import{r as o,c as s,a,d as e,F as t,o as n,C as c,P as l,f as _}from"./index-FLAXAkoT.js";const i={__name:"BabyShower",setup(m){return(p,u)=>{const r=o("HeaderBS");return n(),s(t,null,[a("header",null,[e(r)]),e(c),e(l),a("footer",null,[e(_)])],64)}}};export{i as default};
